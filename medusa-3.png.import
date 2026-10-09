@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://3c2dv3kpu5xu"
-path="res://.godot/imported/Crow.png-4af413557bdc54dfa04cb659cfb5c4b5.ctex"
+uid="uid://cinb0k4am2mup"
+path="res://.godot/imported/medusa-3.png-ad1547a9675e402daf5dcf592c9ccdcc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Crow.png"
-dest_files=["res://.godot/imported/Crow.png-4af413557bdc54dfa04cb659cfb5c4b5.ctex"]
+source_file="res://medusa-3.png"
+dest_files=["res://.godot/imported/medusa-3.png-ad1547a9675e402daf5dcf592c9ccdcc.ctex"]
 
 [params]
 
