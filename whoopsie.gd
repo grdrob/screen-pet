@@ -92,6 +92,6 @@ func _physics_process(delta: float) -> void:
 		animated_sprite.flip_h = !animated_sprite.flip_h
 		maybe_idle()
 		
-	if window_position.y <= 50 or window_position.y >= screen_size.y - window_size.y:
+	if window_position.y <= 150 and direction.y < 0 or window_position.y >= screen_size.y - window_size.y:
 		direction.y *= -1
 		maybe_idle()
